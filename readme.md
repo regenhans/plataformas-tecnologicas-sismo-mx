@@ -43,4 +43,6 @@ Tweetbot  desaparecidos, sismo 2017 | n/a | [Github](https://github.com/regenhan
 
 ### Contribuye
 
-Si crees que hay algo que podemos hacer para mejorar esta lista, los pull-request son bienvenidos
+1. Agrega un recurso haciendo un fork y mandando un pull-request
+2. Agrega una categoría que creas que hace falta
+3. Si crees que hay algo que podemos hacer para mejorar esta lista, los pull-request son bienvenidos
